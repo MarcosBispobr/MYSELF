@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcosBispobr
-- 👀 I’m interested in football
+- 👀 I’m a lover of football
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on technology industry
 
